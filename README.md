@@ -62,7 +62,8 @@ I created the first half of the flow to do the following:
 
 An Email containing details of the ticket is sent directly to the user's email address including the form ID which will act as the ticket number. This can then be used as reference.
 
-   
+![Screenshot 2024-08-27 212752](https://github.com/user-attachments/assets/f8a0680e-b0e7-4db6-aae9-bae9fbf3ff02)
+  
 
 
 
