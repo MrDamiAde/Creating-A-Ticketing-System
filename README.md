@@ -4,7 +4,7 @@
 
 This Project will showcase the creation of a ticketing system that automates the process using Sharepoint Lists, Microsoft Forms, and Power Automate.
 
-No coding will be used for this project.
+#No coding will be used for this project.
 
 ### Tools
 1. Sharepoint
@@ -56,6 +56,11 @@ I created the first half of the flow to do the following:
 #### 3. Once the response details is received, it then sends the data to the "Tickets" list and a ticket is created
 
 ![Screenshot 2024-08-27 163323](https://github.com/user-attachments/assets/c2802026-7a76-4944-b402-fad3258f558e)
+
+
+### Step 4: Automatically send an email to the user
+
+An Email containing details of the ticket is sent directly to the user's email address including the form ID which will act as the ticket number. This can then be used as reference.
 
    
 
