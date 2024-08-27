@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This Project will showcase the creation of a ticketing system using sharepoint lists and forms and power automate.
+This Project will showcase the creation of a ticketing system using sharepoint lists, forms and power automate to automate the process.
 
 ### Tools
 1. Sharepoint
