@@ -45,14 +45,15 @@ I created the first half of the flow to do the following:
 
 #### 1. Flow is triggered when a response to the form is received
 
-![Screenshot 2024-08-27 163211](https://github.com/user-attachments/assets/dfbec05d-bbf7-4823-b838-c64fd13c63f2)
-
-#### 2. lololo
-
-![Screenshot 2024-08-27 163223](https://github.com/user-attachments/assets/9848e622-57fb-44c4-b703-f5a6da016593)
+![Screenshot 2024-08-27 163223](https://github.com/user-attachments/assets/7a35cabd-7622-46a8-9cef-ed29c827d0ee)
 
 
-#### 4. When a response is received, the information collected is sent to and presented in the "Tickets" list
+#### 2. Collect the response details
+
+![Screenshot 2024-08-27 163211](https://github.com/user-attachments/assets/ce733258-7676-43b1-a03d-1216cfc6949f)
+
+
+#### 3. Once the response details is received, it then sends the data to the "Tickets" list and a ticket is created
 
 ![Screenshot 2024-08-27 163323](https://github.com/user-attachments/assets/c2802026-7a76-4944-b402-fad3258f558e)
 
