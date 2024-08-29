@@ -51,7 +51,7 @@ I created the flow using Power Automate to do the following:
 ![Screenshot 2024-08-27 163211](https://github.com/user-attachments/assets/ce733258-7676-43b1-a03d-1216cfc6949f)
 
 
-#### 3. Once the response details is received, it then sends the data to the "Tickets" list and a ticket is created
+#### 3. Once the response details are received, it then sends the data to the "Tickets" list and a ticket is created
 
 ![Screenshot 2024-08-27 163323](https://github.com/user-attachments/assets/c2802026-7a76-4944-b402-fad3258f558e)
 
@@ -61,7 +61,10 @@ I created the flow using Power Automate to do the following:
 An Email containing details of the ticket is sent directly to the user's email address including the form ID which will act as the ticket number. This can then be used as reference.
 
 ![Screenshot 2024-08-27 212752](https://github.com/user-attachments/assets/f8a0680e-b0e7-4db6-aae9-bae9fbf3ff02)
+
+Here's an example of the email an employee receives once they submit a ticket:
   
+![Screenshot 2024-08-29 185700](https://github.com/user-attachments/assets/a92c4c24-cf3b-47dd-9e4e-e33c6237337a)
 
 
 
