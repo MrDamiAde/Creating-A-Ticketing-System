@@ -68,9 +68,13 @@ Here's an example of the email an employee receives once they submit a ticket:
 
 ### Step 5: Triage Ticket
 
-Once the IT Help Desk team receives a ticket, it is displayed in the list below, where the ticket details can be viewed. Once the ticket is solved, an email is sent to the employee automatically confirming that the issue hags been solved.
+Once the IT Help Desk team receives a ticket, it is displayed in the list below, where the ticket details can be viewed. Once the ticket is solved, an email is sent to the employee automatically confirming that the issue has been solved.
 
 ![Screenshot 2024-08-26 212713](https://github.com/user-attachments/assets/253f4cbc-3a65-4d68-bf3d-0ea654aaead6)
+
+### Results And Findings
+
+Created a simple ticketing system that allows users to submit a ticket using Microsoft forms, and receive updates via automated email. A Sharepoint list was used as a dashboard to view, edit and escalate/complete ticket requests.
 
 
 
