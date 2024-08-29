@@ -1,4 +1,4 @@
-# Creating-My-Own-HelpDesk-
+# Creating A Ticketing System
 
 ### Project Overview
 
